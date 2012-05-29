@@ -1,0 +1,7 @@
+[submodule "options/fancy-settings"]
+	path = options/fancy-settings
+	url = https://github.com/zealotrunner/fancy-settings.git
+
+[submodule "js/strophejs"]
+	path = js/strophejs
+	url = https://github.com/zealotrunner/strophejs.git

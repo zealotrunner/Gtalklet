@@ -1,0 +1,13 @@
+# -*- mode: org -*-
+
+* Release Checklist
+*** Make sure all tests pass
+*** Decide on version number
+*** Update updated.html
+*** Check if google analytics enabled UA-24633653-1
+*** Tag code with version
+  * Push repo and tags
+*** Create version.txt with version
+*** Run make release
+*** Upload zip file (Web Store Dashboard)
+*** Tell the world

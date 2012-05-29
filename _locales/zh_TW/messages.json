@@ -1,0 +1,211 @@
+{
+	"locale": {
+		"message": "zh_TW"
+	},
+	"gtalkletDescription": {
+		"message": "一個簡單優雅，運行於Google Chrome瀏覽器中的Gtalk用戶端"
+	},
+
+	"unknown": {
+		"message": "未知"
+	},
+	"invited": {
+		"message": "已邀請"
+	},
+	"rejected": {
+		"message": "已拒绝"
+	},
+	"offline": {
+		"message": "离线"
+	},
+	"invisible": {
+		"message": "隱形"
+	},
+	"busy": {
+		"message": "忙碌"
+	},
+	"idle": {
+		"message": "閒置"
+	},
+	"available": {
+		"message": "線上"
+	},
+
+	"signin": {
+		"message": "登入"
+	},
+	"signout": {
+		"message": "登出"
+	},
+	"signingout": {
+		"message": "正在登出..."
+	},
+
+	"noMatchingContacts": {
+		"message": "沒有匹配的聯絡人"
+	},
+	"xMatches": {
+		"message": "共有 $1 個匹配"
+	},
+	"searchInAllContacts": {
+		"message": "搜尋所有聯絡人 ..."
+	},
+	"viewAllContacts": {
+		"message": "輸入 @ 號或按 &uarr; 键查看所有聯絡人"
+	},
+	"createConversation": {
+		"message": "開始聊天"
+	},
+	"invalidJid": {
+		"message": "$1 不是合法的賬戶 (JID)"
+	},
+	"inviteToChat": {
+		"message": "發送聊天邀請"
+	},
+	"enterToSend": {
+		"message": "按 Enter 鍵發送"
+	},
+	"options": {
+		"message": "設定"
+	},
+	"ok": {
+		"message": "知道了"
+	},
+
+	"signedIn": {
+		"message": "已登入"
+	},
+	"connecting": {
+		"message": "正在連接..."
+	},
+	"authenticating": {
+		"message": "正在認證..."
+	},
+	"loadingContacts": {
+		"message": "正在載入..."
+	},
+	"connected": {
+		"message": "已連接"
+	},
+	"connectError": {
+		"message": "連接錯誤"
+	},
+	"retry": {
+		"message": "重試"
+	},
+	"cancel": {
+		"message": "取消"
+	},
+	"connectionLost": {
+		"message": "連接中斷"
+	},
+	"connectionFailed": {
+		"message": "連接失敗"
+	},
+	"authenticationFailed": {
+		"message": "賬戶認證失敗"
+	},
+	"somethingError": {
+		"message": "未知錯誤"
+	},
+	
+	"xOffline": {
+		"message": "$1 处于离线状态，无法接收消息"
+	},
+	"xWantsToAddYou": {
+		"message": "$1 想要把您加为联系人， <a class=\"gtalklet_message_link gtalklet_invited_ok\" href=\"javascript:\" data-jid=\"$1\" title=\"接受\">接受</a> | <a class=\"gtalklet_message_link gtalklet_invited_no\" href=\"javascript:\" data-jid=\"$1\" title=\"拒絕\">拒絕</a>"
+	},
+	"stillVisible": {
+		"message" : "您無法隱形，..."
+	},
+	"stillVisibleBecause": {
+		"message" : "... 因為您从另一个不支援隱形的用戶端或位置登入了Google Talk"
+	},
+
+	"enabled": {
+		"message": "Gtalklet 已激活"
+	},
+	"disabled": {
+		"message": "Gtalklet 未激活"
+	},
+	"excluded": {
+		"message": "URL Excluded. Click to enable temporary."
+	},
+
+	"gtalkletOptions": {
+		"message": "Gtalklet 設定"
+	},
+	"connection": {
+		"message": "连接"
+	},
+	"gtalkletConnectionWarn": {
+		"message": "Gtalklet 使用 BOSH 技术 (Bidirectional-streams Over Synchronous HTTP) 来连接 XMPP 聊天服务器。<br />
+		但是，Google 并没有提供 BOSH 所需的 Connection Manager (CM)。 所以，您并不能直接连接到 talk.google.com。 
+		您只能连接到一个第三方的 BOSH CM。<a href='http://en.wikipedia.org/wiki/BOSH' target='_blank'>Wikipedia &raquo;</a><br /><br />
+		为了您的账户安全，您应该选择一个值得信任的 CM。<br />
+		或者，花几分钟搭建一个您自己的 CM。 <a href='http://metajack.im/2008/09/08/which-bosh-server-do-you-need/' target='_blank'>More &raquo;</a>
+		"
+	},
+	"selectCM": {
+		"message": "选择使用一个公开的 XMPP BOSH Connection Manager："
+	},
+	"selectOtherCM": {
+		"message": "或者，<hr />使用您指定的 Connection Manager：(可选)"
+	},
+	"builtForGtalklet": {
+		"message": "专为 Gtalklet 搭建"
+	},
+	"account": {
+		"message": "账户"
+	},
+	"gtalkletAccountWarn": {
+		"message": "强烈推荐使用\"两步验证\"和\"应用程序专用密码\" <a href='http://www.google.com/support/accounts/bin/static.py?page=guide.cs&guide=1056283' target='_blank'>More &raquo;<a>"
+	},
+	"itsGAA": {
+		"message": "这是个 Google 企业应用套件 (Google Apps) 账户"
+	},
+	"autoSignIn": {
+		"message": "Chrome 启动后自动登录"
+	},
+	"signoutFirst": {
+		"message": "您需要退出登录之后才能修改这些字段"
+	},
+	"advanced": {
+		"message": "高级"
+	},
+	"position": {
+		"message": "位置"
+	},
+	"left": {
+		"message": "靠左"
+	},
+	"right": {
+		"message": "靠右"
+	},
+	"notification": {
+		"message": "通知"
+	},
+	"showDesktopNotification": {
+		"message": "显示桌面通知"
+	},
+	"playSound": {
+		"message": "播放声音"
+	},
+	"excludes": {
+		"message": "排除"
+	},
+	"excludesDescription": {
+		"message": "例： http*://mail.google.com/*<br/ >
+		Gmail 页面上会默认禁用 Gtalklet 。<br />
+		每行输入一个 URL 匹配模式。"
+	},
+	"about": {
+		"message": "关于"
+	},
+	"crxVersion": {
+		"message": "离线安装包版"
+	},
+	"crxVersionDescription": {
+		"message": "您是通过离线安装包安装的 Gtalklet <br />如需获得最新版本并自动保持更新，请删除之后通过 <a href=\"https://chrome.google.com/webstore/detail/mijcfiakajpjojbebgmoahoddbeafckk\" target=\"_blank\">Chrome Web Store</a> 重新安装"
+	}
+}

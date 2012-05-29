@@ -1,0 +1,16 @@
+{
+	"input":	[
+		"../js/strophejs/src/base64.js",
+		"../js/strophejs/src/md5.js",
+		"../js/strophejs/src/core.js",
+		"../js/strophejs/plugins/mixin.support.js",
+		"../js/strophejs/plugins/plugin.0030.js",
+		"../js/strophejs/plugins/plugin.cm.js",
+		"../js/strophejs/plugins/plugin.roster.js"
+		],
+	"output":	"../js/strophejs.all.js",
+	"comment":	"comment.txt",
+	"uglify_option": {
+
+	}
+}

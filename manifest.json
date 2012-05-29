@@ -1,0 +1,59 @@
+{
+	"name" : "Gtalklet",
+	"version" : "0.6.2.4",
+	
+	"minimum_chrome_version" : "11",
+	"default_locale" : "en",
+	"icons" : {
+		"16" : "icon.png",
+		"48" : "icon48.png",
+		"128" : "icon128.png"
+	},
+	"description" : "__MSG_gtalkletDescription__",
+	"page_action" : {
+		"default_title" : "Gtalklet"
+	},
+	
+	"background_page" : "html/background.html",
+	"options_page" : "options/index.html",
+	"content_scripts" : [
+		{
+		"matches" : ["http://*/*", "https://*/*", "file://*"],
+		"run_at" : "document_end",
+		"css" : ["css/style.css"],
+		"js" : [
+			"js/jquery.js",
+			"js/tab/micro-templating.js",
+			"js/tab/autolink.js",
+			"js/tab/assistant.js",
+			"js/tab/follower.js",
+			"js/tab/jquery.switchToClass.js",
+			"js/tab/jquery.blockUI.js",
+			"js/tab/jquery.scrollbarWidth.js",
+			"js/tab/jquery.scrollTo.js",
+			"js/tab/jquery.tinyscrollbar.js",
+			"js/tab/jquery.gtalkMarkdown.js",
+			"js/tab/jquery.urlToImg.js",
+			"js/gtalklet.js",
+			"js/features/xmpp/v.js",
+			"js/features/xmpp_invite/v.js",
+			"js/features/gtalk/v.js",
+			"js/features/image/v.js",
+			"js/features/shared_status/v.js",
+			"js/tab/align.js"
+			],
+			"exclude_globs" : [
+				"*://chrome.google.com/webstore/*",
+				"about:blank"
+			]
+		}
+	],
+	"permissions" : [
+		"tabs",
+		"notifications",
+		"idle",
+		"cookies",
+		"http://*/",
+		"https://*/"
+	]
+}

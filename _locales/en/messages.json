@@ -1,0 +1,219 @@
+{
+	"locale": {
+		"message": "en"
+	},
+	"gtalkletDescription": {
+		"message": "A small & elegant chat client inside Google Chrome™(Google Talk, Facebook Chat and other XMPP services)"
+	},
+
+	"unknown": {
+		"message": "Unknown"
+	},
+	"invited": {
+		"message": "Invited"
+	},
+	"rejected": {
+		"message": "Rejected"
+	},
+	"offline": {
+		"message": "Offline"
+	},
+	"invisible": {
+		"message": "Invisible"
+	},
+	"busy": {
+		"message": "Busy"
+	},
+	"idle": {
+		"message": "idle"
+	},
+	"available": {
+		"message": "Available"
+	},
+
+	"signin": {
+		"message": "Sign In"
+	},
+	"signout": {
+		"message": "Sign Out"
+	},
+	"signingout": {
+		"message": "Signing Out..."
+	},
+	
+	"noMatchingContacts": {
+		"message": "No matching contacts"
+	},
+	"xMatches": {
+		"message": "$1 matches"
+	},
+	"searchInAllContacts": {
+		"message": "Search in all contacts"
+	},
+	"showAllContacts": {
+		"message": "All contacts (hit @ or UP ARROW)"
+	},
+	"createConversation": {
+		"message": "Create a conversation"
+	},
+	"invalidJid": {
+		"message": "Invalid JID: $1"
+	},
+	"inviteToChat": {
+		"message": "Invite to chat"
+	},
+	"enterToSend": {
+		"message": "Enter to Send"
+	},
+	"options": {
+		"message": "Options"
+	},
+	"ok": {
+		"message": "OK"
+	},
+
+	"signedIn": {
+		"message": "Signed In"
+	},
+	"connecting": {
+		"message": "Connecting..."
+	},
+	"authenticating": {
+		"message": "Authenticating..."
+	},
+	"loadingContacts": {
+		"message": "Loading Contacts..."
+	},
+	"connected": {
+		"message": "Connected"
+	},
+	"connectError": {
+		"message": "Connect Error"
+	},
+	"retry": {
+		"message": "Retry"
+	},
+	"cancel": {
+		"message": "Cancel"
+	},
+	"connectionLost": {
+		"message": "Connection Lost"
+	},
+	"connectionFailed": {
+		"message": "Connection Failed"
+	},
+	"authenticationFailed": {
+		"message": "Authentication Failed"
+	},
+	"somethingError": {
+		"message": "Something Error"
+	},
+	"oops": {
+		"message": "Oops..."
+	},
+	"reload": {
+		"message": "Reload"
+	},
+	"interfaceCrashed": {
+		"message": "... Gtalklet interface crashed, reload this page to recover"
+	},
+
+	"xOffline": {
+		"message": "$1 is offline and can't receive messages right now."
+	},
+	"xWantsToAddYou": {
+		"message": "$1 wants to add you as a friend. Add as a friend? <a class=\"gtalklet_message_link gtalklet_invited_ok\" href=\"javascript:\" data-jid=\"$1\" title=\"Accept\">Yes</a> | <a class=\"gtalklet_message_link gtalklet_invited_no\" href=\"javascript:\" data-jid=\"$1\" title=\"Reject\">No</a>"
+	},
+	"stillVisible": {
+		"message" : "Still visible ..."
+	},
+	"stillVisibleBecause": {
+		"message" : "... because you are signed into Google Talk from another client, device, or location that doesn't support invisibility"
+	},
+
+	"enabled": {
+		"message": "Gtalklet Enabled"
+	},
+	"disabled": {
+		"message": "Gtalklet Disabled"
+	},
+	"excluded": {
+		"message": "URL Excluded. Click to enable temporary."
+	},
+
+	"gtalkletOptions": {
+		"message": "Gtalklet Options"
+	},
+	"connection": {
+		"message": "Connection"
+	},
+	"gtalkletConnectionWarn": {
+		"message": "Gtalklet use Bidirectional-streams Over Synchronous HTTP (BOSH) to connect to XMPP Servers.<br />
+		Gtalklet cannot directly connect to talk.google.com or chat.facebook.com <br />
+		It can only conenct to a XMPP BOSH Connection Manager. <a href='http://en.wikipedia.org/wiki/BOSH' target='_blank'>Wikipedia &raquo;</a><br /><br />
+		For security reasons, you should select a reliable Connection Manager provider. <br />
+		Or, just set up your own one. <a href='http://metajack.im/2008/09/08/which-bosh-server-do-you-need/' target='_blank'>More &raquo;</a><br />"
+	},
+	"selectCM": {
+		"message": "Select a Public XMPP BOSH Connection Manager:"
+	},
+	"selectOtherCM": {
+		"message": "Or, <hr />Use Another Connection Manager: (Optional)"
+	},
+	"builtForGtalklet": {
+		"message": "Built for Gtalklet"
+	},
+	"account": {
+		"message": "Account"
+	},
+	"gtalkletAccountWarn": {
+		"message": "2-step verification and application-specific passwords are highly recommended. <a href='http://www.google.com/support/accounts/bin/static.py?page=guide.cs&guide=1056283' target='_blank'>More &raquo;<a>"
+	},
+	"itsGAA" : {
+		"message": "It's a Google Apps Account"
+	},
+	"autoSignIn" : {
+		"message": "Auto Sign in When Chrome Starts"
+	},
+	"signoutFirst": {
+		"message": "You must sign out first to modify these fields."
+	},
+	"advanced": {
+		"message": "Advanced"
+	},
+	"position": {
+		"message": "Position"
+	},
+	"left": {
+		"message": "Left"
+	},
+	"right": {
+		"message": "Right"
+	},
+	"notification": {
+		"message": "Notification"
+	},
+	"showDesktopNotification": {
+		"message": "Show Desktop Notification"
+	},
+	"playSound": {
+		"message": "Play Sound"
+	},
+	"excludes": {
+		"message": "Excludes"
+	},
+	"excludesDescription": {
+		"message": "e.g. http*://mail.google.com/* <br />
+		This will disable Gtalklet on Gmail. <br />
+		Enter one URL per line."
+	},
+	"about": {
+		"message": "About"
+	},
+	"crxVersion": {
+		"message": "CRX Version"
+	},
+	"crxVersionDescription": {
+		"message": "You've installed Gtalklet by a CRX package. If you need latest version of Gtalklet, please reinstall it on <a href=\"https://chrome.google.com/webstore/detail/mijcfiakajpjojbebgmoahoddbeafckk\" target=\"_blank\">Chrome Web Store</a>"
+	}
+}
