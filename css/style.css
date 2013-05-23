@@ -545,7 +545,7 @@ div#gtalklet_layer {
 	color: white;
 	background: #2C3342;
 	padding: 3px 30px 3px 20px;
-	width: 150px;
+	width: 200px;
 	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABRklEQVQ4EWP8//8/AyWAiRLNIL0UG8CCzQVTpkwpU1RUjGVhYWF7+PDh5ufPn1fU19f/waaWARQGyHjVqlUH//379//q1atfz5079+HXr1//d+/efa+hoYEHWR2MjaJ5woQJ6UCJ/4sWLVoFUzBp0qRikCFz586dAxNDplEMWLNmzdHHjx//RlYAYh86dOjp0aNHX6CLg/gYgcjIyMjQ2NiILs4IUowNoCh88uTJImlpaRZlZeW1MEOmTp1abmJiInnjxo0N2AxA8QLIFlAgAun/QA3fL168+Onv378gLigg7wIDUgzIRNGD1WmwaGRmZmZ79OjRNikpKScfHx+9Y8eOvdy/f795dXX1Q7hr0E3ExQcG8BGg3P9169YdR1aDNSHBTUdiBAcH28yaNav/69evl5CEGbB6AVkBITZKLBBSjE2eYgMAxokwf3SEZT0AAAAASUVORK5CYII%3D);
 	background-repeat: no-repeat;
 	background-position: 4px 50%;
